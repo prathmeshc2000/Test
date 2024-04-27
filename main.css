@@ -1,0 +1,40 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    /* background-color: rgb(255, 255, 255); */
+}
+div{
+    background-color: rgb(28, 33, 84);
+    color: white;
+    width: 275px;
+    height: 500px;
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    border-radius:  10px;
+    /* text-align: justify; */
+}
+img
+{
+        width: 200px;
+        text-align: center;
+        border-radius: 10px;
+        
+
+}
+img:hover
+{
+    width: 250px;
+    box-shadow: 5px 5px whitesmoke;
+    transition: 0.3s;
+}
+
+p{
+    text-align: justify;
+}
+
+#heading 
+{
+    color: rgb(226, 137, 43);
+    text-align: center;
+}
